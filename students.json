@@ -1,0 +1,25 @@
+{
+  "S001":{
+    "name": "Alice Johnson",
+    "age": 20,
+    "email": "alice.johnson@example.com",
+    "course": "Computer Science",
+    "marks": 98
+
+  },
+  "S002":{
+    "name": "Bob Smith",
+    "age": 22,
+    "email":"bob.smith@example.com",
+    "course": "Mathematics",
+    "marks": 85
+
+},
+"S003":{
+    "name": "Charlie Brown",
+    "age": 21,
+    "email":"charlie.brown@example.com",
+    "course": "Physics",
+    "marks": 92
+}
+}
